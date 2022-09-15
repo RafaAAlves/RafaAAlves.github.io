@@ -9,6 +9,6 @@ para esta versão.
 
 ## ATENÇÃO: 
 
-Este porfólio estará sendo atualizado no decorrer do meu curso, 
+Este portfólio estará sendo atualizado no decorrer do meu curso, 
 você pode checar as versões anteriores para análise e comparação a partir
 das branches!
