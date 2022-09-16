@@ -46,7 +46,7 @@ body {
       }
 
       #MiniBioText {
-        text-align: center;
+       text-align: center;
       }
       
       #abilities {
@@ -56,7 +56,7 @@ body {
         text-decoration-color: purple;
         text-align:center;
         margin-right: 58px;
-        list-style-position: inside ;
+        list-style-position: inside;
       }
 
       #DescHab {
@@ -65,8 +65,10 @@ body {
 
       .contact {
         text-decoration: none;
-        color: #000000;
-        background-color: #C77DFF;
+        color: #ffffff;
+        background-image: url(Imagens/Fundo-dos-botões.jpg);
+        background-size:cover;
+        background-position: 50% 50%;
         padding: 15px 15px;
         border-radius: 10%;
         line-height: 50px;
