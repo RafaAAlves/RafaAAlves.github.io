@@ -30,7 +30,9 @@ body {
         line-height: 50px;
 
       }
-
+* {
+  font-size: 110%;
+}
       #photo {
        border-radius: 10%;
        outline-style: auto;
@@ -55,7 +57,7 @@ body {
         text-decoration: underline;
         text-decoration-color: purple;
         text-align:center;
-        margin-right: 58px;
+        margin-right: 75px;
         list-style-position: inside;
       }
 
