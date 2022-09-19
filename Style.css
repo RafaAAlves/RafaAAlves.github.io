@@ -1,10 +1,18 @@
         
+* {
+  font-size: 110%;
+}
+
 body {
         background-color:rgba(245, 233, 250, 0.507);
         font-size: 20px;
         text-indent: 30px;
         color: #10002B;
         font-family: fantasy;
+     }
+
+     Header {
+      margin-bottom: 12%;
      }
 
       h1 {
@@ -16,28 +24,26 @@ body {
       }
 
       #shortcutsTitle {
-        position: absolute;
-        top: 75px;
-        left: 420px;
+        margin-top: 3%;
+        margin-bottom: 0%;
+        float: left;      
       }
 
-      #shortcuts {
-        position: absolute;
-        top: 150px;
-        left: 420px;
-        text-indent: 0px;
+      #shortcutsList {
+        list-style: inside;
+        margin-bottom: 4%;
+        margin-top: 7%;
         font-size: 25px;
         line-height: 50px;
-
       }
-* {
-  font-size: 110%;
-}
+
       #photo {
        border-radius: 10%;
        outline-style: auto;
        outline-color: purple;
        width: 20%;
+       float: left;
+
       }
 
       #Sobre-mim {
@@ -92,3 +98,4 @@ body {
         margin-top: -10px;
         padding-bottom: 50px;
       }
+      
