@@ -1,11 +1,13 @@
 # PortfolioWeb
 
-## PARTE 3: Seletores e Posicionamento
-    Olá, esta é a versão 1.2 do meu portfólio web, após a aula de hoje (16/09/22),
-aprendi a utilizar formas de posicionamento de seções do código HTML, conseguindo assim
-ordenar meu site de forma mais agradável, organizando as seções na perte central
-do site, e posicionando os atalhos ao lado da minha foto.
-    Outros códigos foram ensinados mas eu não os utilizei no meu portfólio por enquanto.
+## PARTE 4: Semântica
+    Olá, esta é a versão 1.3 do meu portfólio web, na aula de hoje (19/09/2022), aprendemos
+a utilizar a semântica de forma mais profissional, atualizando as div's para tags específicas
+para cada sessão do código, tornando-o mais legível.
+    Na parte externa, nada foi alterado, pois a aula de hoje foi apenas focada nos códigos.
+    
+    Outra adição foi a possibilidade de abrir o link do site sem precisar rodar o código no
+live server, basta clicar no link disponibilizado aqui para conseguir acessar o porfólio facilmente!   
 
 ## ATENÇÃO: 
 
