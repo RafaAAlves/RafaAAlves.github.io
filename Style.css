@@ -1,5 +1,6 @@
         
 * {
+  margin-top: 2%;
   font-size: 110%;
 }
 
@@ -11,17 +12,37 @@ body {
         font-family: fantasy;
      }
 
+     h1 {
+      color:purple;
+      font-size: 45px;
+      text-decoration: underline;
+      text-decoration-color: black;
+      text-align: center;
+    }
+    
+     #cabeçalho {
+      margin-top: 0%;
+        position: fixed;
+        width: 50%;
+        top: 0%;
+        background-color: #04052e;
+        display: block;
+        align-content: right;
+     }
+
+     #cabeçalho2 {
+      margin-top: 0%;
+      position: fixed;
+      width: 50%;
+      top: 0%;
+      left: 50%;
+      background-color: #04052e;
+     }
+     
+
      Header {
       margin-bottom: 12%;
      }
-
-      h1 {
-        color:purple;
-        font-size: 45px;
-        text-decoration: underline;
-        text-decoration-color: black;
-        text-align: center;
-      }
 
       #shortcutsTitle {
         margin-top: 3%;
