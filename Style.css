@@ -1,5 +1,6 @@
         
 * {
+  margin-top: 2%;
   font-size: 110%;
 }
 
@@ -11,22 +12,27 @@ body {
         font-family: fantasy;
      }
 
+     h1 {
+      color:purple;
+      font-size: 45px;
+      text-decoration: underline;
+      text-decoration-color: black;
+      text-align: center;
+    }
+
      Header {
       margin-bottom: 12%;
      }
-
-      h1 {
-        color:purple;
-        font-size: 45px;
-        text-decoration: underline;
-        text-decoration-color: black;
-        text-align: center;
-      }
 
       #shortcutsTitle {
         margin-top: 3%;
         margin-bottom: 0%;
         float: left;      
+      }
+
+      .cabeçalho {
+        margin-top: -80px;
+        line-height: 120px;
       }
 
       #shortcutsList {
@@ -39,11 +45,12 @@ body {
 
       #photo {
        border-radius: 10%;
-       outline-style: auto;
+       outline-width: 5px;
+       outline-style: groove;
        outline-color: purple;
        width: 20%;
        float: left;
-
+       margin-left: 10px;
       }
 
       #Sobre-mim {
