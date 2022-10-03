@@ -17,6 +17,6 @@ live server, basta clicar no link disponibilizado aqui para conseguir acessar o 
 você pode checar as versões anteriores para análise e comparação a partir
 das branches!
 
-#LINK
 
+LINK:
 https://rafaaalves.github.io/
